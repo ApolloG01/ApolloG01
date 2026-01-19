@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sorri 👋
 
-<!--
-**ApolloG01/ApolloG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Developer with 7+ years of HTML/CSS experience, currently expanding into React development.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js (learning)
+- Git/GitHub
+- Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- React.js and modern front-end development
+- Building full-stack applications
+
+## 📫 How to reach me
+- Email: sorrid01@gmail.com
+- Location: Monza e Brianza, Italy
